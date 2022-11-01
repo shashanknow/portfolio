@@ -11,3 +11,11 @@ I am thrilled to learn about the art of visual storytelling using data :)
 Be it stakeholders, upper management, users or just your team, proper visualization of data is a great skill to have  to impress and educate everybody you interact with professionally or otherwise.
 
 # Portfolio
+## King County covid 19 cases 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11663029"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Visualizing Government Debt
+
+## Final Project
+
+
