@@ -5,3 +5,11 @@
 # Sparklines: Country-wise Debt to GDP Ratio Progression (1995 - 2021)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11735564"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Radial Tree: YoY Progression of Countries with Highest Debt in 2021
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11735955"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Column Chart: Highest Debt grouped by Year with All Time Prrogression
+<div class="flourish-embed flourish-chart" data-src="visualisation/11735719"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
