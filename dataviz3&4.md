@@ -5,7 +5,7 @@ This is an interesting visualization provided by the FBI which gives us informat
 
 <img width="567" alt="Screen Shot 2022-11-14 at 8 23 53 PM" src="https://user-images.githubusercontent.com/117224363/202082282-8cb5c086-f9d8-438f-9942-e467b080035d.png">
 
-Source: [2021 Internet Crime Report](https://pdf.ic3.gov/2021_IC3Report.pdf)
+Source: [2021 Internet Crime Report](https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf)
 
 ## 2️⃣ Let's Critique the Viz 🧐
 
