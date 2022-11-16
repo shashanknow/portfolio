@@ -1,13 +1,13 @@
 # FBI IC3 Crime Report Data Visualization Critique & Redsign
 
-### 1️⃣ The Original Data
+## 1️⃣ The Original Data
 This is an interesting visualization provided by the FBI which gives us information about major crimes reported in the US and how they changed in the last 5 years (2017 - 2021). While it is useful for law enforcement and the media, it also informs general citizens and encourages them to take steps to protect themselves.
 
 <img width="567" alt="Screen Shot 2022-11-14 at 8 23 53 PM" src="https://user-images.githubusercontent.com/117224363/202082282-8cb5c086-f9d8-438f-9942-e467b080035d.png">
 
 Source: https://pdf.ic3.gov/2021_IC3Report.pdf
 
-### 2️⃣ Let's Critique the Viz 🧐
+## 2️⃣ Let's Critique the Viz 🧐
 
 #### What worked well 👍🏽
 - The chart is very complete because it has all necessary information you want to relay to the audience like Top 5 crimes, their count per year and an informative title. 
@@ -37,5 +37,7 @@ Source: https://pdf.ic3.gov/2021_IC3Report.pdf
 
 ![Screen Shot 2022-11-15 at 11 40 09 PM](https://user-images.githubusercontent.com/117224363/202085376-a3b156ed-fc4a-4a4e-901f-392b3582552d.png)
 ![Screen Shot 2022-11-15 at 11 40 25 PM](https://user-images.githubusercontent.com/117224363/202085386-78facf0e-82d8-462a-81ce-386af5f6f8cf.png)
+
+## 3️⃣ Sketching A New Solution ✍🏽
 
 
