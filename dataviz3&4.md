@@ -16,7 +16,7 @@ Source: https://pdf.ic3.gov/2021_IC3Report.pdf
 - The graph did a good job of informing the audience of the trend for a particular type of crime through the years. 
 - Once learned, the darker color makes you think of recent years and lighter colors make you think of many years ago. The numbers next to the bars are informative as well of the count.
 
-##### What did not work so well 👎🏽
+#### What did not work so well 👎🏽
 - The chart is not very perceptible because it is not easy to compare different crime types for a particular year and there is no x-axis. 
 - There is no distinction except the size of the bar to draw attention to Phishing. 
 - Readers are accustomed to read time left to read, reading it from bottom to top is not very intuitive. 
