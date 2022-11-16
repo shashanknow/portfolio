@@ -28,6 +28,11 @@ Source: https://pdf.ic3.gov/2021_IC3Report.pdf
 - I would group the crimes by years in the x-axis and color code the crimes. 
 - I would put an informative sub-heading and talk a little about crimes that are steadily rising. I would also try to highlight Phishing by using a shade of red.
 
+#### Intended Audience 
+- General Public
+- Law Enforcement
+- Media
+
 ##### Score on Stephen Few's [Data Visualization Effectiveness  Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 
 ![Screen Shot 2022-11-15 at 11 40 09 PM](https://user-images.githubusercontent.com/117224363/202085376-a3b156ed-fc4a-4a4e-901f-392b3582552d.png)
