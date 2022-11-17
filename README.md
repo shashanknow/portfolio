@@ -18,6 +18,9 @@ Be it stakeholders, upper management, users or just your team, proper visualizat
 
 [Government Debt Data Vizualizations](/dataviz2.md)
 
+## FBI Crime Data Viz Critique & Redesign
+[Here](/dataviz3&4.md)
+
 ## Final Project
 
 
