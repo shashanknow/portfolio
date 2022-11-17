@@ -40,4 +40,17 @@ Source: [2021 Internet Crime Report, Pg 8.](https://www.ic3.gov/Media/PDF/Annual
 
 ## 3️⃣ Sketching A New Solution ✍🏽
 
+### Let's look at the new design
+
+- **Chart Style**: i let go of the stacked bar-chart and instead used a line chart to show change in reported crimes for different types of crimes.
+- **Title**: I changed the title to include a secondary title that informs readers to look out for Phishing because it's growing out of proportion!
+- **Categories**: I removed the year based categories and used crime types instead. 
+- **axes**: I added an x-axis with years on it and a y-axis with the number of reported crimes.
+- **color**: I used different colors for different crimes and I particularly chose red to show just how alarming the phishing problem is. I also made the phishing line a little bolder than the rest to draw the viewer's attention.
+
+### The First Sketch 🖼
+
+![Assignment 5](https://user-images.githubusercontent.com/117224363/202324256-cca65d46-8c97-4738-905f-48cf79034af9.jpg)
+
+
 
