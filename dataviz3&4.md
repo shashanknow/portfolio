@@ -1,15 +1,17 @@
 # FBI IC3 Crime Report Data Visualization Critique & Redsign
 
-## 1️⃣ The Original Data
+## 1️⃣ Find a data vizualization 
+
 This is an interesting visualization provided by the FBI which gives us information about major crimes reported in the US and how they changed in the last 5 years (2017 - 2021). While it is useful for law enforcement and the media, it also informs general citizens and encourages them to take steps to protect themselves.
 
 <img width="567" alt="Screen Shot 2022-11-14 at 8 23 53 PM" src="https://user-images.githubusercontent.com/117224363/202082282-8cb5c086-f9d8-438f-9942-e467b080035d.png">
 
 Source: [2021 Internet Crime Report, Pg 8.](https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf)
 
-## 2️⃣ Let's Critique the Viz 🧐
+## 2️⃣ Let's critique the viz 🧐
 
 ### What worked well 👍🏽
+
 - The chart is very complete because it has all necessary information you want to relay to the audience like Top 5 crimes, their count per year and an informative title. 
 - It is quite useful for people to know Top 5 crimes to watch out for and how many people are affected. 
 - The data can be considered 100% truthful and reliable as it is provided by the FBI. 
@@ -17,6 +19,7 @@ Source: [2021 Internet Crime Report, Pg 8.](https://www.ic3.gov/Media/PDF/Annual
 - Once learned, the darker color makes you think of recent years and lighter colors make you think of many years ago. The numbers next to the bars are informative as well of the count.
 
 ### What did not work so well 👎🏽
+
 - The chart is not very perceptible because it is not easy to compare different crime types for a particular year and there is no x-axis. 
 - There is no distinction except the size of the bar to draw attention to Phishing. 
 - Readers are accustomed to read time left to read, reading it from bottom to top is not very intuitive. 
@@ -24,11 +27,13 @@ Source: [2021 Internet Crime Report, Pg 8.](https://www.ic3.gov/Media/PDF/Annual
 - The audience is not engaged enough because their eyes are darting back and forth between the bars and the legend. Also, there are no links to information about crimes to help them learn more about how to protect themselves.
 
 ### What would I do differently 😇
+
 - I would tilt the graph so that bars become vertical and I would also add a y-axis with a Number of crimes label. 
 - I would group the crimes by years in the x-axis and color code the crimes. 
 - I would put an informative sub-heading and talk a little about crimes that are steadily rising. I would also try to highlight Phishing by using a shade of red.
 
 ### Intended Audience 
+
 - General Public
 - Law Enforcement
 - Media
@@ -38,7 +43,7 @@ Source: [2021 Internet Crime Report, Pg 8.](https://www.ic3.gov/Media/PDF/Annual
 ![Screen Shot 2022-11-15 at 11 40 09 PM](https://user-images.githubusercontent.com/117224363/202085376-a3b156ed-fc4a-4a4e-901f-392b3582552d.png)
 ![Screen Shot 2022-11-15 at 11 40 25 PM](https://user-images.githubusercontent.com/117224363/202085386-78facf0e-82d8-462a-81ce-386af5f6f8cf.png)
 
-## 3️⃣ Sketching A New Solution ✍🏽
+## 3️⃣ Sketching a new solution ✍🏽
 
 ### Let's look at the new design
 
@@ -51,6 +56,55 @@ Source: [2021 Internet Crime Report, Pg 8.](https://www.ic3.gov/Media/PDF/Annual
 ### The First Sketch 🖼
 
 ![Assignment 5](https://user-images.githubusercontent.com/117224363/202324256-cca65d46-8c97-4738-905f-48cf79034af9.jpg)
+
+## 4️⃣ Test the solution 🤝
+
+### Interview 1: Data Analyst, 25
+
+- _Q_:  What do you think the chart is trying to convey?
+- _A_: It’s trying to tell me how number of different types of reported crimes have changed over the years. Phishing particularly stands out.
+- _Q_: Did you feel any confusion? If yes, what confused you?
+- _A_: Not confusion but the numbers were too heavy, I would rather look at the percentage change along with rough numbers.
+- _Q_: What do you wish was in the visualization to get the message better?
+- _A_: I wish I could see what overall change in crime was i.e. all types combined
+- _Q_: Who do you think is the intended audience for this?
+- _A_: Just general citizens.
+
+### Interview 2: Student - Music Major, 22
+
+- _Q_: What do you think the chart is trying to convey?
+- _A_: Out of the top 5 crimes mentioned in the chart, phishing has had a massive increase over the years in comparison to other crimes.
+- _Q_: Did you feel any confusion? If yes, what confused you?
+- _A_: Based on the secondary title,  I only think of phishing in the chart, but the main title says Top 5 crimes so I would want to see values for them as well in the beginning.
+- _Q_: What do you wish was in the visualization to get the message better?
+- _A_: The initial stats for all crimes. A percentage increase because the numbers are too big. Final percentage change in 5 years. Numbers are hard to remember.
+-  _Q_: Who do you think is the intended audience for this?
+- _A_: It’s relevant to general public to raise awareness towards phishing. I can see this visualization useful in a corporate setting to stop phishing attacks on their employees.
+
+### What patterns in the feedback emerge?
+
+- The numbers are scaring people.
+- Change in percentage is particulary useful to viewers.
+- The title is not that great
+
+### What did you learn from the feedback?
+
+- People tend to shut out big numbers and focus even more on the visual.
+- Big titles are not great.
+- People care about percentage changes more than absolute difference.
+
+### Design Changes 
+
+- Put percentages next to phishing points.
+- Remove all big scary looking absolute numbers and write rough figures, for e.g., 114729 to 114K.
+- Make a better focused title.
+- Maybe add an overall trend line.
+
+## 5️⃣ Build the solution 🔧
+
+
+
+
 
 
 
