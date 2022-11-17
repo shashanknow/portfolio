@@ -61,25 +61,25 @@ Source: [2021 Internet Crime Report, Pg 8.](https://www.ic3.gov/Media/PDF/Annual
 
 ### Interview 1: Data Analyst, 25
 
-- _Q_:  What do you think the chart is trying to convey?
-- _A_: It’s trying to tell me how number of different types of reported crimes have changed over the years. Phishing particularly stands out.
-- _Q_: Did you feel any confusion? If yes, what confused you?
-- _A_: Not confusion but the numbers were too heavy, I would rather look at the percentage change along with rough numbers.
-- _Q_: What do you wish was in the visualization to get the message better?
-- _A_: I wish I could see what overall change in crime was i.e. all types combined
-- _Q_: Who do you think is the intended audience for this?
-- _A_: Just general citizens.
+- _Q_:  _What do you think the chart is trying to convey?_
+- _A_: _It’s trying to tell me how number of different types of reported crimes have changed over the years. Phishing particularly stands out._
+- _Q_: _Did you feel any confusion? If yes, what confused you?_
+- _A_: _Not confusion but the numbers were too heavy, I would rather look at the percentage change along with rough numbers._
+- _Q_: _What do you wish was in the visualization to get the message better?_
+- _A_: _I wish I could see what overall change in crime was i.e. all types combined._
+- _Q_: _Who do you think is the intended audience for this?_
+- _A_: _Just general citizens._
 
 ### Interview 2: Student - Music Major, 22
 
-- _Q_: What do you think the chart is trying to convey?
-- _A_: Out of the top 5 crimes mentioned in the chart, phishing has had a massive increase over the years in comparison to other crimes.
-- _Q_: Did you feel any confusion? If yes, what confused you?
-- _A_: Based on the secondary title,  I only think of phishing in the chart, but the main title says Top 5 crimes so I would want to see values for them as well in the beginning.
-- _Q_: What do you wish was in the visualization to get the message better?
-- _A_: The initial stats for all crimes. A percentage increase because the numbers are too big. Final percentage change in 5 years. Numbers are hard to remember.
--  _Q_: Who do you think is the intended audience for this?
-- _A_: It’s relevant to general public to raise awareness towards phishing. I can see this visualization useful in a corporate setting to stop phishing attacks on their employees.
+- _Q_: _What do you think the chart is trying to convey?_
+- _A_: _Out of the top 5 crimes mentioned in the chart, phishing has had a massive increase over the years in comparison to other crimes._
+- _Q_: _Did you feel any confusion? If yes, what confused you?_
+- _A_: _Based on the secondary title,  I only think of phishing in the chart, but the main title says Top 5 crimes so I would want to see values for them as well in the beginning._
+- _Q_: _What do you wish was in the visualization to get the message better?_
+- _A_: _The initial stats for all crimes. A percentage increase because the numbers are too big. Final percentage change in 5 years. Numbers are hard to remember._
+-  _Q_: _Who do you think is the intended audience for this?_
+- _A_: _It’s relevant to general public to raise awareness towards phishing. I can see this visualization useful in a corporate setting to stop phishing attacks on their employees._
 
 ### What patterns in the feedback emerge?
 
