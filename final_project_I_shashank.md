@@ -48,7 +48,7 @@ There were 2 things I was trying to achieve with this chart. Show my audience (b
 
 Here, I have highlighted the average number of UFC PPV buys every year from 2004 to 2016 in a line chart. This will help the audience understand if the sport has been growing consistently or not. Any plateaus or dips can be easily visualized in a line chart and it will be really powerfiul to see a trend line throughout the years. I also have a caption box for the year UFC touched highest avergage PPV buys and the fight that made that year so special.
 
-![Final Project Part I-3](https://user-images.githubusercontent.com/117224363/203691776-72a60e3b-9636-4b23-a981-3bdf6b6d8784.jpg)
+![Final Project Part I-3 2](https://user-images.githubusercontent.com/117224363/203696924-bf999378-c834-4f01-8c06-dba8d23ee291.jpg)
 
 ### What styles do the best fighters use? 🥊
 
