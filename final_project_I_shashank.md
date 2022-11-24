@@ -60,7 +60,7 @@ Since the sport is "Mixed" Martial Arts, it would be great to see the breakdown 
 
 One of the things that easily grabs people's attention is a monetary figure. I used an extremely simple table with names of 7 highest paid athletes in 2021. The number one athlete has been colored green (the color of money) to draw attention first to their earnings before looking at other names.
 
-![Final Project Part I-5](https://user-images.githubusercontent.com/117224363/203691811-e55fd3e8-f0de-4d36-bec5-afeba2120bf9.jpg)
+![Final Project Part I-5 (1)](https://user-images.githubusercontent.com/117224363/203696008-714a0b18-d91b-46d4-9888-70367801773f.jpg)
 
 ## Data 
 
