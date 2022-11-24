@@ -23,14 +23,12 @@ Lastly, I would like to get a sneak peek (images, gifs) and some resources (link
 ## The Narration
 
 - I will start by talking about combat being extremely popular before sports were even invented (Gladiators in Rome).
-- Next comes introduction about MMA and how it beings in the best fighters across the world onto a global stage.
+- Next comes introduction about MMA and how it brings in the best fighters across the world onto a global stage.
 - Fighters with different fighting styles and backgrounds compete to see which style is the best and who reigns supreme.
 - Highlight the biggest MMA promotions like UFC and Bellator and how many people watch their events and how much money is involved.
-- Further, drop names like Conor Mcgregor and Khabib and what they have done for their countries through their success in MMA.
-- Visualize growing popularity with line charts containing PPV numbers and figher salaries to show there is big money in the sport.
-- Lastly, encourage audience to check out the next event and other future events
+- Further, drop names like Conor Mcgregor and Khabib Nurmagomedov and what they have done for their countries through their success in MMA.
+- Visualize growing popularity with line charts containing PPV numbers and figher salaries to show there is big money in the sport compared to a sport like Football.
+- Lastly, encourage audience to check out the next event and other future events.
 
 
-
-
-Click (here)[README.md] to go home.
+Click [here](README.md) to go home.
