@@ -8,7 +8,7 @@ The project began with a vague idea in my mind but one thing that was clear to m
 
 ### Part II
 
-In this part, I brought my earlier visualizations to life using Tableau and Flourish. I embedded these charts on to a shorthand presentation and tried to build a story around the sport of MMA. I got the opportunity to interview people with varying degree of knowledge of MMA ranging from a fan to a completely agnostic. After running interviews using a script containing story and visualization related questions, I gathered lot of solid feedback. Additionally, in-class peer feedback also highlighted major gaps in my story.
+In this part, I brought my earlier visualizations to life using Tableau and Flourish. I embedded these charts on to a shorthand presentation and tried to build a story around the sport of MMA. I got the opportunity to interview people with varying degree of knowledge of MMA ranging from a fan to completely agnostic. After running interviews using a script containing story and visualization related questions, I gathered lot of solid feedback. Additionally, in-class peer feedback also highlighted major gaps in my story.
 
 ### Part III
 
@@ -20,7 +20,7 @@ This stage of the project involves a major re-do from the previous part where th
 
 - Got rid of various visualizations centered around MMA organisations and what is their net worth. Other charts which did not make the cut were the chart showing breakdown of champions by fighting style and UFC's PPV sales throughout the years. I learned that anyone who doesn't resonate with the sport will never pay attention to these figures.
 
-- After keeping 1 of my 5 visualizations in part 5, I made completely new charts centered around various fighters in the sport. The new charts talked about the process of finalizing a fight and the preparations that go on behind the scenes, fighter gear and other protocols involved.
+- After keeping 1 of my 5 visualizations in part 5, I made completely new charts centered around fighters in the sport. The new charts talked about the process of finalizing a fight and the preparations that go on behind the scenes, fighter gear and other protocols involved.
 
 - I made the storyboard theme consistent across the board following a dark theme for the most part.
 
@@ -65,10 +65,13 @@ I decided to use Shorthand's amazing scrollpoint feature by using Conor McGregor
 
 Lastly, I converted the Forbes 2021 Highest Paid Athletes table into a barg graph is way more aesthetically pleasing.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12098271"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Final Product
 
 [Shorthand](https://preview.shorthand.com/r2q7TF0vSJSQccCg)
 
 ## Nav
 <- [Part II](final_project_II_shashank.md)
+
 [home](README.md)
