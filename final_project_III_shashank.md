@@ -63,7 +63,7 @@ I decided to use Shorthand's amazing scrollpoint feature by using Conor McGregor
 
 ### Bar Chart
 
-Lastly, I converted the Forbes 2021 Highest Paid Athletes table into a barg graph is way more aesthetically pleasing.
+Lastly, I converted the Forbes 2021 Highest Paid Athletes table into a bar graph that is way more aesthetically pleasing.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12098271"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
