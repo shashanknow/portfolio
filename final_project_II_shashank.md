@@ -45,7 +45,13 @@ I tried to identify individuals with different level of exposure to the sport to
 - The storyboard aesthetics are a little unclean and I will apply a darker and consistent color scheme.
 - Get rid of the first visualization comparing MMA to other sports as it diminshes the impact of the following charts.
 
+## Nav
 
+<- [Part I](final_project_I_shashank.md)
+
+-> [Part III](final_project_III_shashank.md)
+
+[home](README.md)
 
 
 
