@@ -1,12 +1,15 @@
 # Shashank Kunikullaya
 
 ## portfolio
+
 Here's where you will find all of the interesting stuff I have been working on!
 
 ## About Me
+
 I am a Data Product Manager who loves to solve customer problems using data. I also love to find patterns and stories inside data. 
 
 ## What I hope to learn
+
 I am thrilled to learn about the art of visual storytelling using data :)
 Be it stakeholders, upper management, users or just your team, proper visualization of data is a great skill to have  to impress and educate everybody you interact with professionally or otherwise.
 
@@ -20,15 +23,15 @@ Be it stakeholders, upper management, users or just your team, proper visualizat
 
 ## FBI Crime Data Viz Critique & Redesign
 
-[Here](/dataviz3&4.md)
+[FBI Crime Data Visualization](/dataviz3&4.md)
 
 ## Final Project
 
-[Part 1](final_project_I_shashank.md)
+[Final Project Part 1](final_project_I_shashank.md)
 
-[Part II](final_project_II_shashank.md)
+[Final Project Part II](final_project_II_shashank.md)
 
-[Part III](final_project_III_shashank.md)
+[Final Project Part III](final_project_III_shashank.md)
 
 ## Contact Me
 
