@@ -30,6 +30,10 @@ This stage of the project involves a major re-do from the previous part where th
 
 - Finally, I also highlighted benefits of training in MMA to solidify my call-to-action.
 
+## Audience
+
+Finally after working through all different parts of the project, I have identified my audience to be people who are not agnostic of MMA. It is required for them to like or be fans of MMA but at least know of the existence of the sport and understand the basics of it.
+
 ## Let's look at the new visualizations
 
 ### Radar Chart 
