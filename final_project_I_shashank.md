@@ -81,5 +81,6 @@ Since my data is highly fragmented, my first step will be to compile data into e
 For the presentation, I will be using **Shorthand**. The animation and seamless transition abilities provided by the tool is great for impactful storytelling. 
 
 -> [Part II](final_project_II_shashank.md)
+
 Click [here](README.md) to go home.
 
