@@ -129,5 +129,6 @@ After going through the interview answer, I was convinced that I made the right 
 - What I attempted to do differently was to try to answer the questions that pop into your mind when you hear about a reported crime getting worse as effectively and quickly as possible. The categories were right infront of me and what better than line charts to show trends in time.
 
 
+
 [home](/README.md)
 
