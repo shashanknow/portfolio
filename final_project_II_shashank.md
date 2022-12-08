@@ -52,8 +52,3 @@ I tried to identify individuals with different level of exposure to the sport to
 -> [Part III](final_project_III_shashank.md)
 
 [home](README.md)
-
-
-
-
-
